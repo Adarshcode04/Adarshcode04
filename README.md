@@ -39,6 +39,7 @@ Hello 👋, I'm Adarsh Shrivastav
 
 🌱 Currently Learning
 - Backend Development  
+- UI && UX 
 - Problem Solving (DSA)
 
 ---
@@ -59,12 +60,12 @@ Hello 👋, I'm Adarsh Shrivastav
 
 ---
 
-## Connect With Me
+# Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-628189346/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/_the_adarsh004/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Adarshcode04)
 
 ---
 
-⚡ Fun Fact
+⚡Fun Fact
 > I love exploring how things work under the hood and turning ideas into reality 🚀
