@@ -1,7 +1,7 @@
-## Hi there 👋
-# Hi 👋, I'm Adarsh Shrivastav
 
-### 💻 Full Stack Developer | AI Enthusiast | Problem Solver
+Hello 👋, I'm Adarsh Shrivastav
+
+💻 Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
