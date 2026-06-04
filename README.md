@@ -5,7 +5,7 @@ Hello 👋, I'm Adarsh Shrivastav
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 - 🎓 Computer Science Student (Semester 5)  
 - 💡 Passionate about building scalable web applications  
 - 🧠 Strong interest in Data Structures & Algorithms  
@@ -14,14 +14,14 @@ Hello 👋, I'm Adarsh Shrivastav
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 💻 Languages  
+💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
  
-### 🌐 Web Development
+🌐 Web Development
 ## Tech Stack
 
 **Frontend:**  
@@ -30,41 +30,41 @@ Hello 👋, I'm Adarsh Shrivastav
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-### 🔥 Backend & Tools
+🔥 Backend & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+🌱 Currently Learning
 - Backend Development  
 - Problem Solving (DSA)
 
 ---
 
-## 📌 Projects
+📌 Projects
 - 🚀 Working on real-world web development projects  
 - 🤖 Exploring AI-based applications  
 
 ---
 
-## 🌐 Portfolio
+🌐 Portfolio
 🔗 Coming Soon...
 
 ---
 
-## 📈 GitHub Stats
+📈 GitHub Stats
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshcode04&show_icons=true)
 
 ---
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-628189346/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/_the_adarsh004/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Adarshcode04)
 
 ---
 
-## ⚡ Fun Fact
+⚡ Fun Fact
 > I love exploring how things work under the hood and turning ideas into reality 🚀
