@@ -1,7 +1,7 @@
 
-Hello 👋, I'm Adarsh Shrivastav
+Hello 👋, I'm Adarsh 
 
-💻 Full Stack Developer | AI Enthusiast | Problem Solver
+💻 Full Stack Developer | Problem Solver
 
 ---
 
@@ -56,7 +56,6 @@ Hello 👋, I'm Adarsh Shrivastav
 ---
 
 📈 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshcode04&show_icons=true)
 
 ---
 
