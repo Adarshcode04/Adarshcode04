@@ -14,10 +14,12 @@
 
 ```java
 while (true) {
-    learn();
+    think();
     code();
     build();
-    improve();
+    execute();
+    implement();
+    repeat();
 }
 ```
 
@@ -34,9 +36,9 @@ while (true) {
 * 🏆 Participating in hackathons
 
 <p align="center">
-  <a href="https://github.com/Adarshcode04">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adarshcode04&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/Adarshcode04">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshcode04&show_icons=true&theme=tokyonight" />
+</a>
 </p>
 
 <p align="center">
