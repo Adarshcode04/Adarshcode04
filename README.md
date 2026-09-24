@@ -35,11 +35,11 @@ while (true) {
 * 💻 Building real-world projects
 * 🏆 Participating in hackathons
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Adarshcode04">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshcode04&show_icons=true&theme=tokyonight" />
 </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://leetcode.com/u/Adarshcode04/">LeetCode</a> •
