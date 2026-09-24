@@ -1,70 +1,51 @@
+<h1 align="center">
+  👋 Hi, I'm Adarsh Kumar
+</h1>
 
-Hello 👋, I'm Adarsh 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=CSE+Student+%F0%9F%8E%93;Java+%7C+Python+%7C+JavaScript+%F0%9F%92%BB;DSA+Learner+%F0%9F%A7%A0;Building+Projects+%F0%9F%9A%80" />
+</p>
 
-💻 Full Stack Developer | Problem Solver
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
----
+### ⚡ About Me
 
-🚀 About Me
-- 🎓 Computer Science Student (Semester 5)  
-- 💡 Passionate about building scalable web applications  
-- 🧠 Strong interest in Data Structures & Algorithms  
-- 🤖 Exploring Artificial Intelligence & Machine Learning  
-- 🤝 Open to internships, collaborations, and learning opportunities  
+```java
+while (true) {
+    learn();
+    code();
+    build();
+    improve();
+}
+```
 
----
+### 🛠️ Tech Stack
 
-🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
+</p>
 
-💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+### 🚀 Currently
 
- 
-🌐 Web Development
-## Tech Stack
+* 🧠 Learning DSA
+* 💻 Building real-world projects
+* 🏆 Participating in hackathons
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="center">
+  <a href="https://github.com/Adarshcode04">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adarshcode04&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Adarshcode04/">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/adarsh-kumar-628189346/">LinkedIn</a> •
+  <a href="https://github.com/Adarshcode04">GitHub</a>
+</p>
 
-🔥 Backend & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+<p align="center">
+  ⭐ Thanks for visiting!
+</p>
 
----
-
-🌱 Currently Learning
-- Backend Development  
-- UI && UX 
-- Problem Solving (DSA)
-
----
-
-📌 Projects
-- 🚀 Working on real-world web development projects  
-- 🤖 Exploring AI-based applications  
-
----
-
-🌐 Portfolio
-🔗 Coming Soon...
-
----
-
-📈 GitHub Stats
-
----
-
-# Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-628189346/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/_the_adarsh004/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Adarshcode04)
-
----
-
-⚡Fun Fact
-> I love exploring how things work under the hood and turning ideas into reality 🚀
