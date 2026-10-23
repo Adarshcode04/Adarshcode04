@@ -13,6 +13,7 @@
 
 ### ⚡ About Me
 
+```java
 while (true) {
     think();
     code();
@@ -21,6 +22,7 @@ while (true) {
     implement();
     repeat();
 }
+```
 
 ### 🛠️ Tech Stack
 
