@@ -1,6 +1,7 @@
 <h1 align="center">
-  👋 Hi, I'm Adarsh Kumar
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Adarsh+Kumar+%F0%9F%91%8B&background=0D1117" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=CSE+Student+%F0%9F%8E%93;Java+%7C+Python+%7C+JavaScript+%F0%9F%92%BB;DSA+Learner+%F0%9F%A7%A0;Building+Projects+%F0%9F%9A%80" />
@@ -12,7 +13,6 @@
 
 ### ⚡ About Me
 
-```java
 while (true) {
     think();
     code();
@@ -21,7 +21,6 @@ while (true) {
     implement();
     repeat();
 }
-```
 
 ### 🛠️ Tech Stack
 
